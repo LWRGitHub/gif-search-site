@@ -1,0 +1,11 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "search for a gif on this site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan",
+  "license": "ISC"
+}
