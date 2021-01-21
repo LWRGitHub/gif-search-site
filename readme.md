@@ -14,7 +14,14 @@ Use this site to seach & find the gifs your looking for!
 - Bootstrap
 - API
 
-### Install
+### Install/Setup
+
+**Clone Repo**
+```
+git clone https://github.com/LWRGitHub/gif-search-site.git
+```
+
+**Install**
 ```
 npm install express --save
 npm install nodemon -g
@@ -23,6 +30,12 @@ npm install tenorjs --save
 npm install dotenv --save
 ```
 
-***Screenshot:***
+**Run**
+```
+node app.js
+```
+***Gif Search listening on port localhost:3000***
+
+### Screenshot:
 
 <img alt="Git Search Website" src="https://github.com/lwrgithub/gif-search-site/blob/master/public/img/gif-site-screenshot.png" />
