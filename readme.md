@@ -3,11 +3,12 @@
 ***Technologies used***
 - JavaScript
 - HTML
+- CSS
 - Handlebars
 - Express
 - Tenorjs
 - Nodemon
-- Brew
+- Home Brew
 - Node.js
 
 ***Install***
