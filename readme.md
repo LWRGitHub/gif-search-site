@@ -16,19 +16,11 @@ Use this site to seach & find the gifs your looking for!
 
 ### Install
 ```
-$ npm install express --save
-```
-```
-$ npm install nodemon -g
-```
-```
-$ npm install express-handlebars --save
-```
-```
-$ npm install tenorjs --save
-```
-```
-$ npm install dotenv --save
+npm install express --save
+npm install nodemon -g
+npm install express-handlebars --save
+npm install tenorjs --save
+npm install dotenv --save
 ```
 
 ***Screenshot:***
