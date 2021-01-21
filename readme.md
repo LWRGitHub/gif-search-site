@@ -1,6 +1,7 @@
 # Gif Search Website
+Use this site to seach & find the gifs your looking for!
 
-***Technologies used***
+### Technologies used
 - JavaScript
 - HTML
 - CSS
@@ -10,8 +11,9 @@
 - Nodemon
 - Home Brew
 - Node.js
+- Bootstrap
 
-***Install***
+### Install
 ```
 $ npm install express --save
 ```
@@ -27,3 +29,7 @@ $ npm install tenorjs --save
 ```
 $ npm install dotenv --save
 ```
+
+***Screenshot:***
+
+<img alt="Git Search Website" src="https://github.com/lwrgithub/gif-search-site/blob/master/public/img/gif-site-screenshot.png" />
