@@ -12,6 +12,7 @@ Use this site to seach & find the gifs your looking for!
 - Home Brew
 - Node.js
 - Bootstrap
+- Tenor API
 
 ### Install
 ```
